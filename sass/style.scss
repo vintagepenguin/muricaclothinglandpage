@@ -1127,11 +1127,12 @@ $size-padding-lr: 2.5em;
 				font-size: 0.8em;
 				line-height: 1em;
 				padding: 0;
+				margin-top: 1em;
 
 				li {
 					border-left: solid 1px $color-alt-fg-lighter;
 					display: inline-block;
-					margin: 0 0 0 1em;
+					margin: 2em 0 0 1em;
 					padding: 0 0 0 1em;
 
 					&:first-child {
